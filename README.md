@@ -89,18 +89,22 @@ This project includes:
 ## 💻 Run Locally
 
 
-# Step 1: Clone the repository
+Step 1: Clone the repository
 ```bash
 git clone https://github.com/akhilajanagam799/fake-news-detection.git
 cd fake-news-detection
 ```
 
-# Step 2: (Optional) Create and activate a virtual environment
+Step 2: (Optional) Create and activate a virtual environment
+```bash
 python -m venv venv
 venv\Scripts\activate  # On Windows
+```
 
-# Step 3: Install required packages
+#Step 3: Install required packages
+```bash
 pip install -r requirements.txt
+```
 
 # Step 4: Launch the Streamlit App
 streamlit run app/fake_news_app.py
