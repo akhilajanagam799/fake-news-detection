@@ -42,3 +42,15 @@ This project includes:
 
 ## 🧾 Project Structure
 
+📦 fake-news-detection
+├── app/
+│ └── fake_news_app.py # Streamlit frontend code
+├── data/
+│ └── [Large dataset files ignored in .gitignore]
+├── models/
+│ ├── fake_news_model.pkl # Trained ML model
+│ └── tfidf_vectorizer.pkl # TF-IDF vectorizer
+├── main.py # Script for training and model building
+├── requirements.txt # Python dependencies
+└── README.md # Project documentation
+
