@@ -129,6 +129,14 @@ Indian Institute of Technology
 
 🔗 GitHub | 💼 LinkedIn
 
+ ## 🙌 Acknowledgements
+ 
+Kaggle Dataset
+
+Scikit-learn Documentation
+
+Streamlit Docs
+
 
 
 
