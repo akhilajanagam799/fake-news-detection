@@ -65,4 +65,45 @@ This project includes:
 └── README.md # Project documentation
 
 
+---
+
+## 🧠 How It Works
+
+1. **Preprocessing**: News text is cleaned and vectorized using TF-IDF.
+2. **Modeling**: A **Logistic Regression** classifier is trained on labeled real/fake news data.
+3. **Prediction**: The model predicts the probability of the news being real or fake.
+4. **Frontend**: Users can input any news content in the Streamlit app and instantly get results.
+
+---
+
+## 📊 Dataset
+
+> Source: [Kaggle – Fake and Real News Dataset](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
+
+- `Fake.csv`: Fake news articles
+- `True.csv`: Real news articles  
+✅ *(Both files are large, and excluded from GitHub using `.gitignore`)*
+
+---
+
+## 💻 Run Locally
+
+```bash
+# Step 1: Clone the repository
+git clone https://github.com/akhilajanagam799/fake-news-detection.git
+```
+cd fake-news-detection
+
+# Step 2: (Optional) Create and activate a virtual environment
+python -m venv venv
+venv\Scripts\activate  # On Windows
+
+# Step 3: Install required packages
+pip install -r requirements.txt
+
+# Step 4: Launch the Streamlit App
+streamlit run app/fake_news_app.py
+
+
+
 
