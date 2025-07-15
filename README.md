@@ -114,4 +114,11 @@ streamlit run app/fake_news_app.py
  ## 🌐 Live Demo
 🔗 Link to live app: [Coming soon – after Streamlit Cloud deployment]
 
+ ## 🖼️ Screenshots
+(Add screenshots or a demo GIF here after running the app)
+
+User enters news content
+
+App displays result: ✅ Real or ❌ Fake
+
 
