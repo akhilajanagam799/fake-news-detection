@@ -129,7 +129,7 @@ Janagam Akhila
 
 Indian Institute of Technology
 
-🔗 GitHub | 💼 LinkedIn[ https://www.linkedin.com/in/janagam-akhila-297b65307]
+🔗 GitHub | 💼 LinkedIn https://www.linkedin.com/in/janagam-akhila-297b65307
 
  ## 🙌 Acknowledgements
  
