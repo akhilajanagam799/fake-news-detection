@@ -139,4 +139,19 @@ Streamlit Docs
 
  💬 Feel free to fork, use, and enhance this project. Contributions are always welcome!
 
+ 
+---
+
+### ✅ Next Steps After README:
+
+1. **Replace**:
+   - The Streamlit link (`https://your-streamlit-url.com`) after deployment
+   - Screenshot preview image URL with an actual hosted or repo image
+
+2. **Add** this as `README.md` to your GitHub repo:
+   - Go to your repo on GitHub → Click **"Add a README"** → Paste this content → Commit.
+
+Would you like help with Streamlit deployment or adding screenshots next?
+
+
 
