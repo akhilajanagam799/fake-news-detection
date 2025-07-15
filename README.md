@@ -115,7 +115,7 @@ streamlit run app/fake_news_app.py
 🔗 Link to live app: [https://fake-news-detection-czrt6nfnjbedggr6u5xffn.streamlit.app]
 
  ## 🖼️ Screenshots
-(Add screenshots or a demo GIF here after running the app)
+
 
 User enters news content
 
