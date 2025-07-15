@@ -116,9 +116,10 @@ streamlit run app/fake_news_app.py
 
  ## 🖼️ Screenshots
  
-https://github.com/akhilajanagam799/fake-news-detection/blob/master/app-screenshot.png?raw=true
 
 User enters news content
+
+![Fake News Detection App Screenshot](https://github.com/akhilajanagam799/fake-news-detection/blob/master/app-screenshot.png?raw=true)
 
 App displays result: ✅ Real or ❌ Fake
 
