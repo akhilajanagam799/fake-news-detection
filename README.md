@@ -101,14 +101,15 @@ python -m venv venv
 venv\Scripts\activate  # On Windows
 ```
 
-#Step 3: Install required packages
+Step 3: Install required packages
 ```bash
 pip install -r requirements.txt
 ```
 
-# Step 4: Launch the Streamlit App
+ Step 4: Launch the Streamlit App
+ ```bash
 streamlit run app/fake_news_app.py
-
+```
 
 
 
