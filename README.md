@@ -121,9 +121,10 @@ User enters news content
 
 App displays result: ✅ Real or ❌ Fake
 
- ## 📝 License
-This project is licensed under the MIT License. See LICENSE for more details.
-
+##  👩‍💻 Author
+Janagam Akhila
+🎓 B.Tech - Mathematics and Computing
+🔗 GitHub | 💼 LinkedIn
 
 
 
