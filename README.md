@@ -137,6 +137,6 @@ Scikit-learn Documentation
 
 Streamlit Docs
 
-
+ 💬 Feel free to fork, use, and enhance this project. Contributions are always welcome!
 
 
