@@ -111,5 +111,7 @@ pip install -r requirements.txt
 streamlit run app/fake_news_app.py
 ```
 
+ ## 🌐 Live Demo
+🔗 Link to live app: [Coming soon – after Streamlit Cloud deployment]
 
 
