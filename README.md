@@ -88,11 +88,12 @@ This project includes:
 
 ## 💻 Run Locally
 
-```bash
+
 # Step 1: Clone the repository
+```bash
 git clone https://github.com/akhilajanagam799/fake-news-detection.git
-```
 cd fake-news-detection
+```
 
 # Step 2: (Optional) Create and activate a virtual environment
 python -m venv venv
