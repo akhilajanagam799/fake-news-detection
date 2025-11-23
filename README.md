@@ -125,9 +125,9 @@ App displays result: ✅ Real or ❌ Fake
 
 ##  👩‍💻 Author
 Janagam Akhila
-🎓 B.Tech - Mathematics and Computing
 
-Indian Institute of Technology
+
+ 🎓Indian Institute of Technology
 
 🔗 GitHub | 💼 LinkedIn https://www.linkedin.com/in/janagam-akhila-297b65307
 
